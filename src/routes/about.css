@@ -1,0 +1,22 @@
+.about{
+    padding-top: 100px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+    justify-content: center;
+}
+
+#info{
+    font-size: 14rem;
+}
+
+.lang-card{
+    display: flex;
+    justify-content: space-around;
+}    
+
+img{
+    height: 10rem;
+    width: 10rem;
+    padding: 20px;
+}
